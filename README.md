@@ -10,7 +10,8 @@ this is a fork of https://github.com/developedbyed/react-portofolio-with-tailwin
 - **Technical Skills**: Lists my technical skills and technologies I'm proficient in.
 - **About Me**: Provides a brief personal description highlighting my passion for programming and technology.
 - **Contact Information**: Includes contact information for potential employers, recruiters, and collaborators.
-- **Personal Blog**: Integration of a personal blog to share knowledge and experiences.
+
+
 
 ## Technologies Used
 - **Next.js**: Used to create a high-performance React web application with dynamic routing.
