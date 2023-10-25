@@ -25,7 +25,7 @@ The primary goal of this project is to provide visitors with a comprehensive vie
 [Visit the Online Portfolio](https://proud-desert-0b748c610.4.azurestaticapps.net)
 
 ## Author
-- [José Ramírez](www.linkedin.com/in/josedramirez-50338a85)
+- [José Ramírez](https://www.linkedin.com/in/josedramirez-50338a85)
 - [GitHub](https://github.com/josed59)
 
 ## License
