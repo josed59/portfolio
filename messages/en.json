@@ -1,0 +1,41 @@
+{
+  "Index": {
+    "title": "Hello World!"
+  },
+  "navbar": {
+    "title": "Fullstack and IT Project Manager",
+    "description": "Experienced professional in fullstack and frontend development with a clear mission: drive impactful digital experiences and elevate innovation to a new standard."
+  },
+  "aboutMe": {
+    "title": "Experience and Skills",
+    "experience": "Throughout my journey as a developer, I've had the opportunity to work on various projects and collaborate with talented professionals in creating technological solutions. Over time, I assumed leadership roles, providing me with extensive experience in a variety of technologies and methodologies.",
+    "subtitle": "In my career, I've gained a deep understanding of both frontend and backend development, along with leadership skills that have enabled me to successfully manage teams."
+  },
+  "frontend": {
+    "title": "Technologies I Use",
+    "description": "I design efficient and appealing user interfaces for an optimal user experience."
+  },
+  "backend": {
+    "title": "Tools I Use",
+    "description": "I develop robust and scalable systems."
+  },
+  "leader": {
+    "heading":"Visionary Leader",
+    "title": "Methodologies and Tools",
+    "description": "I lead technical teams with a strategic vision, ensuring the achievement of objectives and excellence in execution."
+  },
+  "portfolio": {
+    "description": "Throughout my professional journey, I have always sought to drive innovation. Each project and every line of code represent an opportunity to make a lasting impact in the technology field.",
+    "collabText": "Collab is a tool for coordinating tasks with a team of coworkers.",
+    "check":"See More"
+    },
+  "collab":{
+      "title":"Collaborate seamlessly with Collab: Simplify your work together.",
+      "subTitle":"Collab boosts productivity!",
+      "titleApp":"Task Cards for Team Efficiency",
+      "subTitleApp":"Our tool empowers you to create task cards, ensuring visibility into team capacity.",
+      "subTitle2":"Get insights into the status of each task.",
+      "dreamTitle":"From Passion for Programming: Collab's Journey",
+      "dreamText":"My passion for programming took me from a developer to a successful Project Manager. I aimed to create impactful web solutions. Collab was born out of the need for efficient collaboration. I developed Collab with a strong technical focus: C# .Net on the backend and React on the frontend. Today, Collab is a continuously improving team collaboration tool. My story demonstrates how management and technical skills come together in Collab."
+  }
+}

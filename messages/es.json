@@ -1,0 +1,41 @@
+{
+    "Index": {
+      "title": "Hola Mundo!"
+    },
+    "navbar":{
+      "title":" Fullstack y IT Project Manager",
+      "description":"Experimentado profesional en desarrollo fullstack y frontend con una misión clara: impulsar experiencias digitales de impacto y elevar la innovación a un nuevo estándar."
+    },
+    "aboutMe":{
+        "title":"Experiencia y Habilidades",
+        "experience":"A lo largo de mi trayecto como desarrollador, he tenido la oportunidad de trabajar en diversos proyectos y colaborar con talentosos profesionales en la creación de soluciones tecnológicas. Con el tiempo, asumí roles de liderazgo, lo que me brindó una amplia experiencia en una variedad de tecnologías y metodologías.",
+        "subtitle":"En mi carrera, he adquirido un profundo conocimiento en el desarrollo tanto frontend como backend, además de habilidades de liderazgo que me han permitido gestionar equipos con éxito."
+    },
+    "frontend":{
+        "title":"Tecnologías que uso",
+        "description":"Diseño interfaces de usuario eficientes y atractivas para una experiencia del usuario óptima."
+    },
+    "backend":{
+        "title":"Herramientas que uso",
+        "description":"Desarrollo sistemas sólidos y escalables."
+    },
+    "leader":{
+        "heading":"Líder Estratégico",
+        "title":"Metodologías y Herramientas",
+        "description":"Dirijo equipos técnicos con visión estratégica, garantizando el cumplimiento de objetivos y la excelencia en la ejecución."
+    },
+    "portfolio":{
+        "description":"A lo largo de mi trayecto profesional siempre he buscado impulsar la innovacion. Cada proyecto y cada línea de código representan una ocasión para dejar una marca duradera en el ámbito tecnológico.",
+        "collabText":"Collab es una herramienta para coordinar tareas con un equipo de trabajo",
+        "check":"Ver más"
+    },
+    "collab": {
+        "title": "Colabora sin problemas con Collab: Simplifica el trabajo en equipo.",
+        "subTitle": "¡Collab aumenta la productividad!",
+        "titleApp": "Gestión eficiente de tareas con Tarjetas de Tareas",
+        "subTitleApp": "Nuestra herramienta te permite crear tarjetas de tareas, garantizando visibilidad en la capacidad del equipo.",
+        "subTitle2": "Obtén información sobre el estado de cada tarea.",
+        "dreamTitle": "Desde la Pasión por la Programación: El Viaje de Collab",
+        "dreamText": "Mi pasión por la programación me llevó de ser un desarrollador a convertirme en un exitoso Gerente de Proyectos. Aspiraba a crear soluciones web impactantes. Collab nació de la necesidad de una colaboración eficaz. Desarrollé Collab con un fuerte enfoque técnico: C# .Net en el backend y React en el frontend. Hoy, Collab es una herramienta de colaboración en equipo en constante mejora. Mi historia ejemplifica la convergencia de habilidades de gestión y técnicas en Collab."
+        }
+  }
