@@ -20,15 +20,12 @@ this is a fork of https://github.com/developedbyed/react-portofolio-with-tailwin
 ## Goal
 The primary goal of this project is to provide visitors with a comprehensive view of my skills and accomplishments in the technology field. It also serves as a showcase of my personality, passion for programming, and commitment to the technology industry.
 
-## Screenshots
-![Screenshot 1](/path/to/image1.png)
-![Screenshot 2](/path/to/image2.png)
 
 ## Link
-[Visit the Online Portfolio](https://www.example.com)
+[Visit the Online Portfolio](https://proud-desert-0b748c610.4.azurestaticapps.net)
 
 ## Author
-- [Your Name](https://proud-desert-0b748c610.4.azurestaticapps.net)
+- [José Ramírez](www.linkedin.com/in/josedramirez-50338a85)
 - [GitHub](https://github.com/josed59)
 
 ## License
