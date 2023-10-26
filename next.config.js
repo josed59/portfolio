@@ -7,6 +7,8 @@ const withNextIntl = require('next-intl/plugin')(
    
 
 
-const nextConfig = {}
+const nextConfig = {
+  output: 'standalone',
+}
 
 module.exports = withNextIntl(nextConfig);
