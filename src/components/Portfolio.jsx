@@ -49,13 +49,13 @@ export default function Portfolio(){
               <div className="flex flex-row gap-4 justify-around pt-8">
                 <div className="flex items-center gap-4 ">
                   <p>Frontend</p>
-                  <a href="#">
+                  <a href="https://github.com/josed59/collab." target="_blank" rel="noopener noreferrer">
                     <AiFillGithub className="w-8 h-8 text-orange-500 "/>
                   </a>
                 </div>
                 <div className="flex items-center gap-4">
                   <p>Backend</p>
-                  <a href="#">
+                  <a href="https://github.com/josed59/collabbacked" target="_blank" rel="noopener noreferrer" >
                     <AiFillGithub className="w-8 h-8 text-orange-500 "/>
                   </a>
                 </div>
